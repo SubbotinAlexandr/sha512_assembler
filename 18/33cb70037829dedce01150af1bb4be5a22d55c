@@ -1,0 +1,28 @@
+sha512.s
+  s_cef850496a0a1c::t_39375e76067fb1 131,134
+  s_cef850496a0a1c::t_327e2f573a4da0 1-130,132-133,135-299
+.gitignore
+  s_cef850496a0a1c::t_e90c6b5c24e01a 1-3
+README.md
+  s_cef850496a0a1c::t_d4ab68e687ad2f 1-39
+tests/test_sha512.py
+  s_cef850496a0a1c::t_7880db38e576fd 1-54
+Makefile
+  s_cef850496a0a1c::t_ed060c8ced59ff 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5-gigacode.2",
+  "base_commit_sha": "1833cb70037829dedce01150af1bb4be5a22d55c",
+  "prompts": {},
+  "sessions": {
+    "s_cef850496a0a1c": {
+      "agent_id": {
+        "tool": "gigacode_cli_agent",
+        "id": "95ecb961-853d-4283-a4b7-fa12252e7d9d",
+        "model": "DeepSeek-V4.1-Flash-1017"
+      },
+      "human_author": "Subbotin Alexandr <klu44@list.ru>"
+    }
+  }
+}
